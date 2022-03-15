@@ -2,7 +2,7 @@
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mk-64231b129/)
 
-![Gariel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=000&text_color=606060&bg_color=fff&show_icons=true&icon_color=5FB25F)
+![Gariel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=000&text_color=5C5C5C&bg_color=F6F6F6&show_icons=true&icon_color=5FB25F)
 
 ## 🛠 Tech Stack
 
