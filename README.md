@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-💻 ┇I'm a Javascript Developer from São Paulo,  Brasil;
+💻 ┇I'm Developer from São Paulo,  Brasil;
 
 💾 ┇Any tech that I enjoy working in are ReactJS, React Native and MySQL;
 
