@@ -19,7 +19,7 @@
 
 </br>
 
-### *Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.*
+### *Passionate about technology and changing people's lives through programming. 💻 *
 
 </br>
 
