@@ -2,7 +2,7 @@
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mk-64231b129/)
 
-![Gariel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=fff&text_color=D6DBDF&bg_color=262626&show_icons=true&icon_color=79ff97)
+![Gariel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=fff&text_color=D6DBDF&bg_color=363A3E&show_icons=true&icon_color=79ff97)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmurakami&layout=compact)](https://github.com/gabrielmurakami/github-readme-stats)
 
@@ -19,10 +19,12 @@
     <img alt='PostGres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
 
-### *Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.*
+### *Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.*
 
 ## 👨‍💻 About Me
 
-![commit](https://badgen.net/github/last-commit/micromatch/micromatch)
+💻 ┇I'm a Javascript Developer from São Paulo,  Brasil;
 
-![views](https://badgen.net/github/watchers/micromatch/micromatch)
+💾 ┇Any tech that I enjoy working in are ReactJS, React Native and MySQL;
+
+😍 ┇Passionate about challanges and solving problem with technology;
