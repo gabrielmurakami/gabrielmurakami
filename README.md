@@ -19,7 +19,7 @@
 
 </br>
 
-### *Passionate about technology and changing people's lives through programming. 💻 *
+### *Passionate about technology and changing people's lives through programming.*  💻 
 
 </br>
 
