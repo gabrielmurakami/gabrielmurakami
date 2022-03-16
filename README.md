@@ -25,4 +25,4 @@
 
 😍 ┇Apaixonado por desafios e resolver problemas com tecnologia;
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielmurakami/gabrielmurakami/blob/output/github-contribution-grid-snake.svg)
