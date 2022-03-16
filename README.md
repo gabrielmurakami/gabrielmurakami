@@ -17,12 +17,6 @@
     <img align="center" alt='PostGres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
 
-</br>
-
-### *Passionate about technology and changing people's lives through programming.*  💻 
-
-</br>
-
 ## 👨‍💻 About Me
 
 💻 ┇I'm Developer from São Paulo,  Brasil;
