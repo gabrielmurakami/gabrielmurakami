@@ -30,3 +30,5 @@
 💾 ┇Any tech that I enjoy working in are ReactJS, React Native and MySQL;
 
 😍 ┇Passionate about challanges and solving problem with technology;
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
