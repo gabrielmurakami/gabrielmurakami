@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gabriel Murakami</h1>
+<h1 align="center">Olá 👋, Sou Gabriel Murakami, desenvolvedor Junior</h1>
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mk-64231b129/)
 
 ![Gariel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=000&text_color=5C5C5C&bg_color=F6F6F6&show_icons=true&icon_color=5FB25F)
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias
 
 <div>
     <img align="center" alt='html' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
@@ -17,12 +17,12 @@
     <img align="center" alt='PostGres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-💻 ┇I'm Developer from São Paulo,  Brasil;
+💻 ┇Sou de Vinhedo, São Paulo - BR;
 
-💾 ┇Any tech that I enjoy working in are ReactJS, React Native and MySQL;
+💾 ┇Tecnologias a quais eu goste de trabalhar é ReactJS, React Native, PostgreSQL e MySQL;
 
-😍 ┇Passionate about challanges and solving problem with technology;
+😍 ┇Apaixonado por desafios e resolver problemas com tecnologia;
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
