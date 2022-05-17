@@ -27,3 +27,5 @@
 😍 ┇Apaixonado por desafios e resolver problemas com tecnologia;
 
 ![Snake animation](https://github.com/gabrielmurakami/gabrielmurakami/blob/output/github-contribution-grid-snake.svg)
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&show_icons=true&theme=dark)
