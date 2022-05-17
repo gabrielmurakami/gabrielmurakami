@@ -2,7 +2,7 @@
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mk-64231b129/)
 
-![Gariel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=000&text_color=5C5C5C&bg_color=F6F6F6&show_icons=true&icon_color=5FB25F)<img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 50%;">
+![Gabriel Mk GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&title_color=000&text_color=5C5C5C&bg_color=F6F6F6&show_icons=true&icon_color=5FB25F)<img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 50%;">
 
 ## 🛠 Tecnologias
 
