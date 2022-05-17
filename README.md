@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Gabriel Murakami, Dev Junior!</h1>
+<h1 align="center">Olá 👋, sou Gabriel Murakami, Dev. Júnior!</h1>
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mk-64231b129/)
 
