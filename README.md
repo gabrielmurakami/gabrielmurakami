@@ -6,7 +6,7 @@
 
 ## 🛠 Tecnologias
 
-<div style='marginTop:10; marginBottom:10'>
+<div style='margin:5px'>
     <img align="center" alt='html' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
     <img align="center" alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
     <img align="center" alt='C' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
