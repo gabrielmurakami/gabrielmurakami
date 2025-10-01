@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, i'm Gabriel Murakami, Junior Developer!</h1>
+<h1 align="center">Hello 👋, i'm Gabriel Murakami</h1>
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mk-64231b129/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vish_mura)
