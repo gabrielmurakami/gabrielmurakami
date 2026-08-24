@@ -52,7 +52,7 @@
 </div>
 ---
  
-[![Snake animation](https://github.com/gabrielmurakami/gabrielmurakami/raw/output/github-contribution-grid-snake.svg)](https://github.com/gabrielmurakami/gabrielmurakami/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/gabrielmurakami/gabrielmurakami/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/gabrielmurakami/gabrielmurakami/blob/output/github-contribution-grid-snake-dark.svg)
  
 ---
  
