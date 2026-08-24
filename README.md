@@ -39,7 +39,7 @@
 ## 🔥 Atualmente trabalhando em
  
 - 🔄 Automações com **n8n** (self-hosted) integradas ao **Tiny ERP**
-- 🖥️ Portal web de gestão de Ordens de Serviço em vanilla HTML/CSS/JS
+- 🖥️ Portal web de gestão de Ordens de Serviço em HTML/CSS/JS
 - 📊 Fluxos automatizados de relatórios e processamento de dados
 ---
  
