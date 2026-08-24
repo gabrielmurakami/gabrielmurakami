@@ -47,10 +47,8 @@
  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmurakami&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=gabrielmurakami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmurakami&theme=tokyonight" alt="Top Languages" />
 </div>
----
  
 [![Snake animation](https://github.com/gabrielmurakami/gabrielmurakami/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/gabrielmurakami/gabrielmurakami/blob/output/github-contribution-grid-snake-dark.svg)
  
