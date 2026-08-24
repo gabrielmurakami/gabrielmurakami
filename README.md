@@ -46,12 +46,9 @@
 ## 📊 GitHub Stats
  
 <div align="center">
-![Gabriel Murakami GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmurakami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielmurakami&theme=tokyonight&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmurakami&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
- 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmurakami&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=gabrielmurakami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmurakami&theme=tokyonight" alt="Top Languages" />
 </div>
 ---
  
