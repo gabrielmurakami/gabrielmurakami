@@ -13,9 +13,7 @@
 🚀 Desenvolvedor apaixonado por **automação de processos** e **integração de sistemas** — acredito que a tecnologia deve eliminar o trabalho repetitivo e potencializar o que realmente importa.
  
 🔧 Atualmente focado em construir e manter infraestruturas de automação empresarial com **n8n**, **ERP** e desenvolvimento web.
- 
-📍 Vinhedo, São Paulo — BR
- 
+  
 ---
  
 ## 🛠️ Tecnologias & Ferramentas
